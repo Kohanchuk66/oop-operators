@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fractions/1.0.0": {
+        "dependencies": {
+          "FractionClass": "1.0.0"
+        },
+        "runtime": {
+          "Fractions.dll": {}
+        }
+      },
+      "FractionClass/1.0.0": {
+        "runtime": {
+          "FractionClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FractionClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

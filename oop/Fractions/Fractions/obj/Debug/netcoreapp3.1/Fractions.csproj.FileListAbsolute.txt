@@ -1,0 +1,14 @@
+C:\с#\дроби\Fractions\Fractions\bin\Debug\netcoreapp3.1\Fractions.exe
+C:\с#\дроби\Fractions\Fractions\bin\Debug\netcoreapp3.1\Fractions.deps.json
+C:\с#\дроби\Fractions\Fractions\bin\Debug\netcoreapp3.1\Fractions.runtimeconfig.json
+C:\с#\дроби\Fractions\Fractions\bin\Debug\netcoreapp3.1\Fractions.runtimeconfig.dev.json
+C:\с#\дроби\Fractions\Fractions\bin\Debug\netcoreapp3.1\Fractions.dll
+C:\с#\дроби\Fractions\Fractions\bin\Debug\netcoreapp3.1\Fractions.pdb
+C:\с#\дроби\Fractions\Fractions\bin\Debug\netcoreapp3.1\FractionClass.dll
+C:\с#\дроби\Fractions\Fractions\bin\Debug\netcoreapp3.1\FractionClass.pdb
+C:\с#\дроби\Fractions\Fractions\obj\Debug\netcoreapp3.1\Fractions.csprojAssemblyReference.cache
+C:\с#\дроби\Fractions\Fractions\obj\Debug\netcoreapp3.1\Fractions.AssemblyInfoInputs.cache
+C:\с#\дроби\Fractions\Fractions\obj\Debug\netcoreapp3.1\Fractions.AssemblyInfo.cs
+C:\с#\дроби\Fractions\Fractions\obj\Debug\netcoreapp3.1\Fractions.csproj.CopyComplete
+C:\с#\дроби\Fractions\Fractions\obj\Debug\netcoreapp3.1\Fractions.dll
+C:\с#\дроби\Fractions\Fractions\obj\Debug\netcoreapp3.1\Fractions.pdb
